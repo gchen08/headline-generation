@@ -1,0 +1,42 @@
+# IntelliJ IDEA Project files
+.idea
+*.iml
+*.ipr
+*.iws
+*.eml
+out/
+ 
+# Eclipse Project files
+.classpath
+.project
+.settings/
+ 
+# My configuation 
+file/
+*.bak
+*.csv
+*.bin
+*.png
+*.pdf
+token.mat
+data/
+result/
+*.npz
+stopwords.txt
+config.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
